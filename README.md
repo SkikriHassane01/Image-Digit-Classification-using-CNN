@@ -1,4 +1,4 @@
-# Image Digit Classification using CNN
+# [Image Digit Classification using CNN](https://www.kaggle.com/code/hassaneskikri/image-digit-classification-using-cnn-0-993-score)
 
 ## Project Overview
 This project demonstrates an image digit classification system built using a Convolutional Neural Network (CNN). The system is designed to accurately classify digits from images by leveraging deep learning techniques. The project includes data preprocessing, model training, evaluation, and visualization of results to provide a comprehensive solution.
