@@ -1,0 +1,1 @@
+the dataset is too large to be uploaded to github, so you can download it from the following link [here](https://www.kaggle.com/competitions/digit-recognizer/data)
